@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./popup.css";
+import "./options.css";
 
-const test = <p>My React chrome Extension</p>;
+const test = <p>My React chrome Extension Options</p>;
 
 const root = document.createElement("div");
 document.body.appendChild(root);
