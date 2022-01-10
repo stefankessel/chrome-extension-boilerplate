@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "React Chrome Extension",
+  "version": "1.0.0",
+  "description": "React Chrome Extension Boilerplate",
+  "action": {
+    "default_title": "React Chrome Extension",
+    "default_popup": "popup.html"
+  }
+}
